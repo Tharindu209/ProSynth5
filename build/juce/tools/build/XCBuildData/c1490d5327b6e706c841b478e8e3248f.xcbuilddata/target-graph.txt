@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+Target 'ALL_BUILD' in project 'JUCE'
+➜ Explicit dependency on target 'juceaide' in project 'JUCE'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'JUCE'
+Target 'juceaide' in project 'JUCE'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'JUCE'
+Target 'ZERO_CHECK' in project 'JUCE' (no dependencies)
