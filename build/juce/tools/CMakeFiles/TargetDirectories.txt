@@ -1,0 +1,7 @@
+/Users/tharindudamruwan/Documents/GitHub/Pro5/build/juce/tools/CMakeFiles/install.dir
+/Users/tharindudamruwan/Documents/GitHub/Pro5/build/juce/tools/CMakeFiles/ALL_BUILD.dir
+/Users/tharindudamruwan/Documents/GitHub/Pro5/build/juce/tools/CMakeFiles/ZERO_CHECK.dir
+/Users/tharindudamruwan/Documents/GitHub/Pro5/build/juce/tools/modules/CMakeFiles/install.dir
+/Users/tharindudamruwan/Documents/GitHub/Pro5/build/juce/tools/extras/Build/CMakeFiles/install.dir
+/Users/tharindudamruwan/Documents/GitHub/Pro5/build/juce/tools/extras/Build/juceaide/CMakeFiles/juceaide.dir
+/Users/tharindudamruwan/Documents/GitHub/Pro5/build/juce/tools/extras/Build/juceaide/CMakeFiles/install.dir
